@@ -1,4 +1,4 @@
-# **DESIGN DOCUMENT**
+# **Detective Agency Database**
 
 
 ## Table of Contents
