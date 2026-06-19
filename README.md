@@ -13,7 +13,7 @@
 ├─ [Evidence](#evidence)  
 ├─ [People of Interest](#people-of-interest)  
 └─ [Relation to Case](#relation-to-case)  
-- [Relationships](#relationships)
+- [Relationship Diagram](#relationship-diagram)
 - [Optimizations](#optimizations)
 - [Limitations](#limitations)
 - [Project Structure](#project-structure)
@@ -128,7 +128,7 @@ The `relation_to_case` table includes:
 * `role`  - the role the person had in the case, as TEXT. Ex. 'Victim', 'Suspect', 'Witness', etc.
 
 
-## Relationships
+## Relationship Diagram
 
 This entity relationship diagram illustrates how the different entities are related in the database.
 
