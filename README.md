@@ -153,7 +153,7 @@ As such, indexes have been created in multiple tables :
 
 ```
 database/
-├── DESIGN.md     # The current file, detailing the design for the database.
+├── README.md     # The current file, detailing the design for the database.
 ├── schema.sql    # A series of SQL statements to create tables, indexes, and views
 ├── queries.sql   # A sample of a few queries, updates, and inserts that can be done with this database
 └── diagram.jpg   # The entity relationship diagram of the database
